@@ -1,0 +1,107 @@
+Publication Process and Writing Research Papers
+
+Publications are important. Cannot survive in academia without publishing.
+Coverting your experiments, findings to a paper is an important process.
+
+Doing the project/code is one thing. Writing manuscripts targetting technical audience, non technical uadience is different
+So other people can progress with your work
+
+Research can give good results as well as bad results
+
+Negative results:- someone else can prevent following the wrong method and save their time
+
+Academic writing style is different skill we need to improve. Different than blog writing
+
+use simple english,so other people can readable
+
+Two main different streams/avernues: Conferences and Journals
+quiet daunting. not easy
+
+process, sometimes end up in diappointment-> paper get rejected
+
+Conferences-tight deadlines, outcome-review, acceptance,rejected
+
+Different review process
+Conference chair distribute the papers among the reviewers
+
+one blind process
+Reviewer know who tha author are. Drawback:Decision might be biased depending on the institution
+
+double b.p.
+Reviewer does not know who submitted the paper. He knows other people who are reviewing the paper
+
+triple. b.p.
+reviewers does not know anything about authors as well as other reviewers
+
+If sometimes some reviewers is not an expert in the specific field, a great work may not be understandable.
+Then this great work can be rejected. He has experienced this.
+
+Usuarlly read by atleast three papers(good conference)
+2/3 -> acceptance
+
+A Start Conferences -> ICML , One rejection-> paper get rejected
+Luck also affect.
+
+Chair might interview if marls allocations have big differences. Ex:- one reviewer -3, other 8/9
+
+Rebuttal periodSometimes reviewers give suggesion to authors to add more experiments or change the stuff. But there is a high chance not to change the marks a lot
+
+Quality of the Conference
+Based on acceptance rate (200/6000 very good)
+what kind of contribution it is done to the field
+A start conferences-> need much experiments
+Quality of the paper, how tough is to accept a paper
+
+A Star
+A 
+B
+C
+
+Big conferences have workshop papers:- they don't have rigid reviewing process. but they have double blind papers
+Good starting point to publish in the first place.
+
+better the conference rank-> better the publication
+
+less than a specific number of pages
+
+Journals:-
+
+very similar to conference
+one important difference- publication timeline
+no timeline
+experiments are much wider and broader
+
+review process take more time and take some time to publish
+
+straight out rejection from associate edditor if the research focus of the journal is different
+
+two-three months
+
+there is a middle between acceptance, rejections
+
+acceptance
+minor revision(grammer,language,methological changes)
+major revision(change experiments, do more experiments)
+rejection
+Therefore journals are more flexible than conferences
+
+There is a chance, afte r4 5 months you get a rejection
+in conferences results come in 2 months
+
+impact factor in journals
+
+how many times a paper in journal is cited in average
+
+higher the impact factor, higher the quality
+
+Q1-Quality 01
+Q2-Quality 02
+
+
+Do the reviewers chack whether someone republish ?
+send the paper to someone in the field
+get a red flag if you try do something like that
+reduce marks for the novelity
+
+
+exact experiments, exact words
