@@ -1,0 +1,38 @@
+Time Series
+
+Observations collected against time
+Temp vs time
+
+Frequencies of datapoints can be different
+
+decomposition of time series
+observed
+trend
+seasonality
+residual
+
+1) Go through their website extensively (Data Sources, Downloading the data,)
+
+2) Identify the data formats (past data)
+
+3) Forecasts produce (format you need to submit)
+
+4) Register as a team ? . Also register for the computing resources (https://docs.google.com/forms/d/e/1FAIpQLSe49IleTxqEBFKzLdtkHvFQH0rPR16o6gfOFQ_L6cPzglAc2Q/viewform)
+
+5) https://otexts.com/fpp3/intro.html (time series book)
+
+From Minoli Gamlath to Everyone:  11:37 AM
+6)
+https://renkulab.io/projects/minoliniroshani/s2s-ai-challenge-template/datasets/s2s-ai-challenge/
+
+https://renkulab.io/projects/aaron.spring/s2s-ai-challenge-template/datasets/s2s-ai-challenge/
+
+https://renkulab.io/projects/aaron.spring/s2s-ai-challenge-template/
+
+https://renkulab.io/gitlab/aaron.spring/s2s-ai-challenge-template/-/blob/master/notebooks/ML_forecast_template.ipynb
+
+https://renkulab.io/gitlab/aaron.spring/s2s-ai-challenge-template/-/blob/master/notebooks/ML_train_and_predict.ipynb
+
+https://renkulab.io/gitlab/aaron.spring/s2s-ai-challenge/-/tree/master
+https://gitter.im/pangeo-data/s2s-ai-challenge
+
